@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Leveraging LVMs for Continuous Sign Language Recognition<br>👯 I’m looking to collaborate on anything tech!<br>🌱 I’m currently exploring the field of Reinforcement Learning.<br>💬 Feel free to ask me about my projects!<br>⚡ Fun fact: The first computer bug was actually a moth that flew into a Harvard Mark II computer in 1947!
+🔭 I’m currently working on Leveraging LVMs for Continuous Sign Language Recognition<br>👯 I’m looking to collaborate on anything tech!<br>🌱 I’m currently exploring the field of Reinforcement Learning.<br>💬 Feel free to ask me about my projects!<br>⚡ Fun fact: The word “robot” comes from the Czech word “robota,” which means “forced labor” or “drudgery.”!
 
 
 ## 🌐 Socials:
